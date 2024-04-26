@@ -1,0 +1,152 @@
+@media (max-width: 900px) {
+    .ltext {
+        width: 100% !important;
+    }
+    .ltext p {
+        font-size: 25px;
+        line-height: 1;
+        padding: 10px 0 0 0;
+        margin: 0;
+        text-align: center;
+    }
+    .ltext h1 {
+        font-size: 26px;
+        line-height: 1; 
+        margin: 24px 0;
+        text-align: center;
+    }
+    .cards {
+        width: 100% !important;
+
+    }
+    .fHireMe{
+        width: 100% !important;
+        display: flex !important;
+        justify-content: center !important;
+    }
+    .craft {
+        padding: 0 4px 0 4px !important;
+        flex-direction: column;
+    }
+    .lottocome{
+        flex-direction: column !important;
+    }
+    .lottocomeChild{
+        width: 100% !important;
+    }
+    .slide2{
+    }
+    .realText{
+        width: 100%;
+    }
+    .realText h1{
+        font-size: 2rem;
+    }
+    .realFirstImage{
+        height: 13rem !important;
+        width: 13rem !important;
+    }
+    .designBeyo{
+        width: 80% !important;
+    }
+    .topperTextReal h1{
+        font-size: 8rem;
+    }
+    .topperTextReal{
+        position: absolute;
+    bottom: 100px;
+    }
+    .team{
+        font-size: 2rem !important;
+    }
+    .list{
+        margin: 0 !important;
+    }
+    .left {
+        gap: 0 !important;
+    }
+    .left h1 {
+        font-size: 1.2rem;
+    }
+    .list {
+        padding: 0 4px !important;
+    }
+    .capsules {
+        padding: 0 4px !important;
+    }
+    .capsule{
+        padding: 0 4px !important;
+    }
+    .capImg{
+        width: 4rem !important;
+        height: 4rem !important;
+        
+    }
+    .footerHeading h3{
+        font-size: 1rem !important;
+        line-height: 1 !important;
+    }
+    .cap2{
+        transform: translate(0px, 0) rotate(-18.0002deg) !important;
+    }
+    .pparaText{
+        margin-top: 316px !important;
+    }
+    .stickyLtext{
+       background-color: #80BECC;
+    }
+    .introVdo{
+        scale: 4 !important;
+        position: absolute !important;
+        left: 50% !important;
+        transform: translate(-10%, 36%) !important;
+        top: 0 !important;
+        height: auto !important;
+    }
+    .believeText{
+        position: absolute !important;
+        position: relative !important;
+        right: 4% !important;
+    }
+    .hrSilde3{
+        flex-shrink: 3 !important;
+        width: auto !important;
+        padding-right: 100px;
+        position: relative !important;
+        top: 157px !important;
+    }
+    .hrSilde3 h3{
+
+    }
+    .hrSilde3 h1{
+        font-size: 7rem !important;
+        width: 100% !important;
+    }
+    .weHelp{
+        width: 100% !important;
+        position: absolute !important;
+        left: 62px !important;
+        top: -129px !important;
+        color: white !important;
+    }
+    .hr3Para {
+        background-color: transparent !important;
+    }
+    .textPara{
+        font-size: 22px !important;
+    }
+    .capsules{
+flex-direction: column !important;
+    }
+    .leftinCap{
+        width: 100% !important;
+        transform: translate3d(0) !important;
+    }
+    .rightIncap{
+        width: 100% !important;
+        justify-content: center !important;
+    }
+    .capsule{
+        transform: translate(0) !important;
+    }
+}
